@@ -1,7 +1,5 @@
 public class user {
     public static void main(String[] args) {
-        synchronized (){
-
-        }
+      System.out.println("<UNK>");
     }
 }
